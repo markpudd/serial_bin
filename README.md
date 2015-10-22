@@ -1,1 +1,3 @@
-# serial_bin
+# Serial Bin
+
+Binary but stuffing for serial data 
