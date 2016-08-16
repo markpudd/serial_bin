@@ -1,3 +1,3 @@
 # Serial Bin
 
-Binary but stuffing for serial data 
+Binary bit stuffing for serial data 
